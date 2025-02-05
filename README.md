@@ -37,8 +37,8 @@ Las señales biomédicas son las señales generadas por el cuerpo humano, como l
 ![image](https://github.com/user-attachments/assets/b68de891-4309-46ec-a174-4868bfe7f217)
 ### 3.**Visualización de la señal**: La señal se grafica en el dominio del tiempo para su inspección visual.
 ![image](https://github.com/user-attachments/assets/b1c01518-2b65-49e8-b334-3fd0a559c2a2)
-4.**Histograma y Función de Probabilidad** : Se grafica un Histograma de señal junto con su función de Probabilidad.
-5.**Calculo de SNR por potencia y por forma estadistica**: se añade diferentes tipos de ruido ( gaussiano,impulso y artefacto) a la señal y se calcula el SNR para cada caso.
+## 4.**Histograma y Función de Probabilidad** : Se grafica un Histograma de señal junto con su función de Probabilidad.
+## 5.**Calculo de SNR por potencia y por forma estadistica**: se añade diferentes tipos de ruido ( gaussiano,impulso y artefacto) a la señal y se calcula el SNR para cada caso.
 ## Resultados y Gráficas
 ### 1. Señal Original 
 ![image](https://github.com/user-attachments/assets/84311f68-7927-4cf1-a1c1-b36373a3caac)
