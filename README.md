@@ -39,28 +39,28 @@ Las señales biomédicas son las señales generadas por el cuerpo humano, como l
 ![image](https://github.com/user-attachments/assets/b1c01518-2b65-49e8-b334-3fd0a559c2a2)
 4.**Histograma y Función de Probabilidad** : Se grafica un Histograma de señal junto con su función de Probabilidad.
 5.**Calculo de SNR por potencia y por forma estadistica**: se añade diferentes tipos de ruido ( gaussiano,impulso y artefacto) a la señal y se calcula el SNR para cada caso.
-##Resultados y Gráficas
+## Resultados y Gráficas
 ### 1. Señal Original 
 ![image](https://github.com/user-attachments/assets/84311f68-7927-4cf1-a1c1-b36373a3caac)
-*Figura 1: Representación de la señal en el dominio del tiempo.*
+## *Figura 1: Representación de la señal en el dominio del tiempo.*
 ### 2. Histograma y Función de probabilidad desde cero y predefinida.
 ![image](https://github.com/user-attachments/assets/2ca58720-5063-41b6-9135-99094ab103c0)
-*Figura 2: Histograma y Función de probabilidad.*
+## *Figura 2: Histograma y Función de probabilidad.*
 ### 3. Señal con Ruido Gaussioano
 ![image](https://github.com/user-attachments/assets/973746dd-5009-4ae3-9935-1d7cc58f56f3)
-*Figura 3: Señal del Ruido Gaussiano.*
+## *Figura 3: Señal del Ruido Gaussiano.*
 ### 4. Señal con Ruido de impulso
 ![image](https://github.com/user-attachments/assets/58cedf77-3965-448c-9a4d-b41e8d36dff2)
-*Figura 4: Señal con ruido de impulso.*
+## *Figura 4: Señal con ruido de impulso.*
 ### 5. Señal con ruido de artefacto
 ![image](https://github.com/user-attachments/assets/0b2a7d67-163c-4e77-b8e4-be06733b02f5)
-*Figura 5: Señal de Ruido de artefacto.*
+## *Figura 5: Señal de Ruido de artefacto.*
 ### 6. Calculos estadisticos
 ![image](https://github.com/user-attachments/assets/a66b0eef-3b9e-4428-b55e-387434106013)
-*Figura 6: Calculos estadisticos.*
+## *Figura 6: Calculos estadisticos.*
 ### 7.Calculos de SNR
 ![image](https://github.com/user-attachments/assets/bdb2fbd4-d642-43cb-9b18-9d9900204696)
-*Figura 7: Calculos SNR.*
+## *Figura 7: Calculos SNR.*
 
 
 
